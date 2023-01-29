@@ -1,0 +1,32 @@
+# Experience template
+- layout: left
+  company: Valto Family PT
+  job_title: Founder, Physical Therapist
+  dates: March 2010 - Present
+  description: | # this will include new lines to allow paragraphs
+   Founder and lead physical therapist of a small family run office. I use my industry experience to provide custom-tailored rehabilitation plans for patients. Working out of my own smaller office allows me to focus more on individual patients, and provide them with the best service possible.
+
+- layout: left
+  company: The Miriam Hospital 
+  link: https://www.miriamhospital.org 
+  job_title: Lead Physical Therapist
+  dates: May 2008 - December 2009
+  description: | # this will include new lines to allow paragraphs
+   Lead a team of five Physical Therapists focused on diagnosing and rehabilitating patients with previous failures at rehabilitation. I served as the primary diagnostician and designed custom regiments for each patients specific needs.
+
+- layout: left
+  company: Care New England Health System 
+  link: https://www.carenewengland.org
+  job_title: Physical Therapist
+  dates: October 2007 - May 2008 
+  description: | # this will include new lines to allow paragraphs
+   Developed and implemented treatment plans including exerciese, stretches, hands-on therapy to aid rehabilitation of physical injuries. Diagnosed injuries and educated patients on ways to prevent future injuries.
+
+- layout: left
+  company: Bradley Hospital
+  link: https://www.lifespan.org/locations/bradley-hospital
+  job_title: Physician Assistant
+  dates: July 2005 - October 2007
+  description: | # this will include new lines to allow paragraphs
+   Worked under the supervision of censed physician to provide diagnostic, therapeutic, and preventive healthcare services. I examined patients, assisted in illness diagnosis, and provided input on treatment plans. 
+

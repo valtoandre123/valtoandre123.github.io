@@ -1,0 +1,16 @@
+# Education Template
+- layout: left
+  name: University of Rhode Island
+  link: https://www.uri.edu 
+  dates: August 2002 - May 2005
+  qualification: M.S. in Kinesiology
+  quote: >
+   College of Health Sciences
+
+- layout: left
+  name: Providence College
+  link: https://www.providence.edu 
+  dates: August 1998 - May 2002
+  qualification: B.S. in Biology
+  quote: >
+   Department of Biology at Providence College 

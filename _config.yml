@@ -1,11 +1,19 @@
 # Site
-repository: Git repository where your resume will be hosted, only required if you are hosting on GitHub (eg. sproogen/modern-resume-theme)
-# favicon: Directory of your favicon (eg. images/favicon.ico)(optional)
+repository: valtoandre123/valtoandre123.github.io 
 
 # Content configuration version
 version: 2
 
 # Personal info
+<<<<<<< HEAD
+name: Andre Valto
+title: Physical Therapist
+email: valtoandre123@gmail.com
+website: https://valtoandre123.github.io
+
+# Dark Mode (true/false/never)
+darkmode: true
+=======
 name: Your Name
 title: Your job title
 email: Your email (optional)
@@ -47,13 +55,30 @@ additional_links:
 # gtm: "GTM-0000000"
 # gtag: "UA-00000000-0"
 # google_analytics: "UA-00000000-0"
+>>>>>>> f811871b635a910761249bd1961b7d9731cbd63e
 
 # About Section
 # about_title: About Me (Use this to override about section title)
-about_profile_image: Directory of profile image (eg. images/profile.jpg)
+about_profile_image: images/andre.jpeg
 about_content: | # this will include new lines to allow paragraphs
-  Write an awesome description about yourself here, this supports markdown, so you can add [links](http://foobar.com) and highlight things <mark>like this</mark>.
+  My name is Andre Valto, I am a Physical Therapist and small business owner based out of Providence, Rhode Island.
+  I am a father, dedicated business owner, new fisherman, and more! I enjoy sharing parts of my life online through social media
+  as well as developing meaningful connections with my clients
 
+  If you ever want to reach out to me, my email is provided on this page, thank you for visiting!
+
+
+<<<<<<< HEAD
+
+# Projects Section
+# projects_title: Projects #(Use this to override about projects section title)
+
+# Experience Section
+# experience_title: Experience #(Use this to override about experience section title)
+
+# Education Section
+# education_title: Education #(Use this to override about education section title)
+=======
   You can even add paragraphs by using empty lines like this and add anything else [markdown](https://www.markdownguide.org/getting-started#what-is-markdown) supports such as
     - Lists
     - Tables
@@ -110,6 +135,7 @@ content:
       This is where you can write a little more about yourself. You could title this section **Interests** and include some of your other interests.
 
       Or you could title it **Skills** and write a bit more about things that make you more desirable, like *leadership* or *teamwork*
+>>>>>>> f811871b635a910761249bd1961b7d9731cbd63e
 
 # Footer
 footer_show_references: true
