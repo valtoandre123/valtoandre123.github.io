@@ -54,7 +54,7 @@ additional_links:
 # Using more than one of these may cause issues with reporting
 # gtm: "GTM-0000000"
 # gtag: "UA-00000000-0"
-# google_analytics: "UA-00000000-0"
+google_analytics: "UA-255934616-1"
 >>>>>>> f811871b635a910761249bd1961b7d9731cbd63e
 
 # About Section
